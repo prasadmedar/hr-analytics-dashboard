@@ -1,4 +1,3 @@
-# hr-analytics-dashboard
 # 👨‍💼 HR Analytics Dashboard
 
 ## 📌 Project Overview
